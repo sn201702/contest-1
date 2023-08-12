@@ -1,0 +1,45 @@
+/* Applying the global reset here */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-decoration: underline;
+  font-family: Inter;
+}
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+img {
+  width: 500px;
+  margin-bottom: 20px;
+}
+ol {
+  margin-left: 20px;
+}
+a:link {
+  color: black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: inline-block;
+  /* text-decoration: none; */
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: red;
+  text-decoration: none;
+}
+.first {
+  padding: 20px;
+  border: 2px solid black;
+  margin: 20px auto;
+}
+li {
+  margin-bottom: 10px;
+}
